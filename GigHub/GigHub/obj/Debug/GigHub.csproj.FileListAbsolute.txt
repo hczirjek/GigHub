@@ -175,3 +175,5 @@ C:\Users\hczirjek\Source\Repos\PluralSight\GigHub\GigHub\GigHub\obj\Debug\GigHub
 C:\Users\hczirjek\Source\Repos\PluralSight\GigHub\GigHub\GigHub\obj\Debug\GigHub.csproj.CopyComplete
 C:\Users\hczirjek\Source\Repos\PluralSight\GigHub\GigHub\GigHub\obj\Debug\GigHub.dll
 C:\Users\hczirjek\Source\Repos\PluralSight\GigHub\GigHub\GigHub\obj\Debug\GigHub.pdb
+C:\Users\hczirjek\Source\Repos\PluralSight\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
+C:\Users\hczirjek\Source\Repos\PluralSight\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig1.resources
